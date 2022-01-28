@@ -13,3 +13,7 @@ npm run build
 ```
 Open the index.html file inside the login folder in your browser
 ```
+
+## Live Demo
+
+[Demo](https://login-with-tailwind.rodjosh.repl.co/)
